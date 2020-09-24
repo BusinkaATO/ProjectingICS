@@ -1,0 +1,13 @@
+C:\Users\trifo\source\repos\Stratagy\Stratagy\obj\Debug\netcoreapp3.1\Stratagy.csprojAssemblyReference.cache
+C:\Users\trifo\source\repos\Stratagy\Stratagy\obj\Debug\netcoreapp3.1\Stratagy.AssemblyInfoInputs.cache
+C:\Users\trifo\source\repos\Stratagy\Stratagy\obj\Debug\netcoreapp3.1\Stratagy.AssemblyInfo.cs
+C:\Users\trifo\source\repos\Stratagy\Stratagy\obj\Debug\netcoreapp3.1\Stratagy.csproj.CoreCompileInputs.cache
+C:\Users\trifo\source\repos\Stratagy\Stratagy\bin\Debug\netcoreapp3.1\Stratagy.exe
+C:\Users\trifo\source\repos\Stratagy\Stratagy\bin\Debug\netcoreapp3.1\Stratagy.deps.json
+C:\Users\trifo\source\repos\Stratagy\Stratagy\bin\Debug\netcoreapp3.1\Stratagy.runtimeconfig.json
+C:\Users\trifo\source\repos\Stratagy\Stratagy\bin\Debug\netcoreapp3.1\Stratagy.runtimeconfig.dev.json
+C:\Users\trifo\source\repos\Stratagy\Stratagy\bin\Debug\netcoreapp3.1\Stratagy.dll
+C:\Users\trifo\source\repos\Stratagy\Stratagy\bin\Debug\netcoreapp3.1\Stratagy.pdb
+C:\Users\trifo\source\repos\Stratagy\Stratagy\obj\Debug\netcoreapp3.1\Stratagy.dll
+C:\Users\trifo\source\repos\Stratagy\Stratagy\obj\Debug\netcoreapp3.1\Stratagy.pdb
+C:\Users\trifo\source\repos\Stratagy\Stratagy\obj\Debug\netcoreapp3.1\Stratagy.genruntimeconfig.cache
